@@ -76,12 +76,6 @@ public class Account {
 		this.accBalance = accBalance;
 	}
 
-	public int getMonthlyIncome() {
-		return monthlyIncome;
-	}
-
-	public void setMonthlyIncome(int monthlyIncome) {
-		this.monthlyIncome = monthlyIncome;
-	}
+	
 
 }
